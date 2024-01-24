@@ -28,3 +28,13 @@ The following challenges all revolve around simple SELECT statements that make u
 |Higher Than 75 Marks|[Link](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|[SQL](./solutions/basic-select/higher-than-75-marks.sql)|
 |Employee Names|[Link](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|[SQL](./solutions/basic-select/employee-names.sql)|
 |Employee Salaries|[Link](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)|[SQL](./solutions/basic-select/employee-salaries.sql)|
+
+## Advanced Select Challenges
+
+The following challenges involve SELECT statements but also make use of variables and CASE WHEN expressions.
+
+| Challenge | HackerRank | Solution |
+|---|---|---|
+|Type of Triangle|[Link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/type-of-triangle.sql)|
+|The PADS|[Link](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/the-pads.sql)|
+|Occupations|[Link](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/occupations.sql)|
