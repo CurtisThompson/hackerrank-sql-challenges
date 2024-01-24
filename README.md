@@ -1,6 +1,6 @@
 # HackerRank SQL Challenges
 
-Solutions to [SQL problems](https://www.hackerrank.com/domains/sql) found on HackerRank.
+This repository contains solutions to [SQL problems](https://www.hackerrank.com/domains/sql) found on HackerRank. Each solution is solved using a MySQL environment.
 
 ## Basic Select Challenges
 
@@ -31,10 +31,12 @@ The following challenges all revolve around simple SELECT statements that make u
 
 ## Advanced Select Challenges
 
-The following challenges involve SELECT statements but also make use of variables and CASE WHEN expressions.
+The following challenges involve SELECT statements but also make use of variables, CASE WHEN expressions, and table joins.
 
 | Challenge | HackerRank | Solution |
 |---|---|---|
 |Type of Triangle|[Link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/type-of-triangle.sql)|
 |The PADS|[Link](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/the-pads.sql)|
 |Occupations|[Link](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/occupations.sql)|
+|Binary Tree Nodes|[Link](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/binary-tree-nodes.sql)|
+|New Companies|[Link](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/new-companies.sql)|
