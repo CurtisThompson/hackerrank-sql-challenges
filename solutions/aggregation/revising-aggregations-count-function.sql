@@ -1,0 +1,3 @@
+SELECT COUNT(Name)
+FROM CITY
+WHERE Population > 100000

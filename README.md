@@ -40,3 +40,27 @@ The following challenges involve SELECT statements but also make use of variable
 |Occupations|[Link](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/occupations.sql)|
 |Binary Tree Nodes|[Link](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/binary-tree-nodes.sql)|
 |New Companies|[Link](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)|[SQL](./solutions/advanced-select/new-companies.sql)|
+
+## Aggregation
+
+The following challenges use simple aggregation functions such as MIN, MAX, SUM, COUNT, and AVG. The final challenge involves calculating a median value - a function which does not exist in most SQL flavours.
+
+| Challenge | HackerRank | Solution |
+|---|---|---|
+|Revising Aggregations - The Count Function|[Link](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true)|[SQL](./solutions/aggregation/revising-aggregations-count-function.sql)|
+|Revising Aggregations - The Sum Function|[Link](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true)|[SQL](./solutions/aggregation/revising-aggregations-sum-function.sql)|
+|Revising Aggregations - Averages|[Link](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)|[SQL](./solutions/aggregation/revising-aggregations-averages.sql)|
+|Average Population|[Link](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true)|[SQL](./solutions/aggregation/average-population.sql)|
+|Japan Population|[Link](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)|[SQL](./solutions/aggregation/japan-population.sql)|
+|Population Density Difference|[Link](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true)|[SQL](./solutions/aggregation/population-density-difference.sql)|
+|The Blunder|[Link](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)|[SQL](./solutions/aggregation/the-blunder.sql)|
+|Top Earners|[Link](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true)|[SQL](./solutions/aggregation/top-earners.sql)|
+|Weather Observation Station 2|[Link](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-2.sql)|
+|Weather Observation Station 13|[Link](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-13.sql)|
+|Weather Observation Station 14|[Link](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-14.sql)|
+|Weather Observation Station 15|[Link](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-15.sql)|
+|Weather Observation Station 16|[Link](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-16.sql)|
+|Weather Observation Station 17|[Link](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-17.sql)|
+|Weather Observation Station 18|[Link](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-18.sql)|
+|Weather Observation Station 19|[Link](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-19.sql)|
+|Weather Observation Station 20|[Link](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-20.sql)|
