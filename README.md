@@ -64,3 +64,18 @@ The following challenges use simple aggregation functions such as MIN, MAX, SUM,
 |Weather Observation Station 18|[Link](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-18.sql)|
 |Weather Observation Station 19|[Link](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-19.sql)|
 |Weather Observation Station 20|[Link](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)|[SQL](./solutions/aggregation/weather-observation-station-20.sql)|
+
+## Basic Join
+
+The following challenges require the use INNER JOINs and LEFT JOINs. While the different amount of expressions in each query is low, some require multiple subqueries to solve and therefore there is a varied difficulty of problem solving across these challenges.
+
+| Challenge | HackerRank | Solution |
+|---|---|---|
+|Population Census|[Link](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true)|[SQL](./solutions/basic-join/population-census.sql)|
+|African Cities|[Link](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)|[SQL](./solutions/basic-join/african-cities.sql)|
+|Average Population of Each Continent|[Link](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)|[SQL](./solutions/basic-join/average-population-of-each-continent.sql)|
+|The Report|[Link](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)|[SQL](./solutions/basic-join/the-report.sql)|
+|Top Competitors|[Link](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)|[SQL]()|
+|Ollivander's Inventory|[Link](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)|[SQL](./solutions/basic-join/ollivanders-inventory.sql)|
+|Challenges|[Link](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)|[SQL](./solutions/basic-join/challenges.sql)|
+|Contest Leaderboard|[Link](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)|[SQL](./solutions/basic-join/contest-leaderboard.sql)|
