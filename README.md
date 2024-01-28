@@ -79,3 +79,25 @@ The following challenges require the use INNER JOINs and LEFT JOINs. While the d
 |Ollivander's Inventory|[Link](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)|[SQL](./solutions/basic-join/ollivanders-inventory.sql)|
 |Challenges|[Link](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)|[SQL](./solutions/basic-join/challenges.sql)|
 |Contest Leaderboard|[Link](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)|[SQL](./solutions/basic-join/contest-leaderboard.sql)|
+
+## Advanced Join
+
+The following queries involve multiple joins as well as subqueries. They differ from the Basic Join category due to the added complexity in the problems.
+
+| Challenge | HackerRank | Solution |
+|---|---|---|
+|SQL Project Planning|[Link](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)|[SQL](./solutions/advanced-join/sql-project-planning.sql)|
+|Placements|[Link](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)|[SQL](./solutions/advanced-join/placements.sql)|
+|Symmetric Pairs|[Link](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true)|[SQL](./solutions/advanced-join/symmetric-pairs.sql)|
+|Interviews|[Link](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)|[SQL](./solutions/advanced-join/interviews.sql)|
+|15 Days of Learning SQL|[Link](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)|[SQL](./solutions/advanced-join/15-days-of-learning-sql.sql)|
+
+## Alternative Queries
+
+The following queries make use of iteration to output interesting values. These solutions use stored procedures or common table expressions for the iterating.
+
+| Challenge | HackerRank | Solution |
+|---|---|---|
+|Draw The Triangle 1|[Link](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true)|[SQL](./solutions/alternative-queries/draw-the-triangle-1.sql)|
+|Draw The Triangle 2|[Link](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true)|[SQL](./solutions/alternative-queries/draw-the-triangle-2.sql)|
+|Print Prime Numbers|[Link](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true)|[SQL](./solutions/alternative-queries/print-prime-numbers.sql)|

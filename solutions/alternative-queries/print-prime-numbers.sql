@@ -1,0 +1,14 @@
+WITH RECURSIVE Numbers AS (
+    SELECT 1 AS n
+    UNION ALL
+    SELECT n + 1 FROM Numbers WHERE n < 1000
+)
+SELECT GROUP_CONCAT(Num SEPARATOR '&')
+FROM (
+  SELECT A.n AS Num
+  FROM Numbers AS A
+  INNER JOIN Numbers AS B ON A.n >= B.n
+  GROUP BY A.n
+  HAVING SUM(CASE WHEN A.n % B.n = 0 THEN 1 ELSE 0 END) = 2
+  ORDER BY A.n
+) AS Primes
